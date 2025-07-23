@@ -10,7 +10,7 @@
 
 Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a committed **Java Developer**, currently pursuing my degree in **Computer Engineering (AI major)** at **Alamein International University**.
 
-💡 I'm deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** — fields that allow me to blend analytical thinking with real-world impact. Whether it's building smart applications or analyzing data for meaningful insights, I’m always eager to push the boundaries of what's possible with intelligent systems.
+💡 I'm deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** , fields that allow me to blend analytical thinking with real-world impact. Whether it's building smart applications or analyzing data for meaningful insights, I’m always eager to push the boundaries of what's possible with intelligent systems.
 
 ---
 
