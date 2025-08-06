@@ -54,8 +54,8 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures, Structured Programming  
-**Languages:** English (B2-C1), German (A2-B1)  
-**Competitive Programming:** Solved 120+ problems on LeetCode
+**Languages:** Arabic (Native) English (B2-C1), German (A2-B1)  
+**Competitive Programming:** Solved 160+ problems on LeetCode
 
 ---
 
