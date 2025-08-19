@@ -10,7 +10,7 @@
 
 Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a committed **Java Developer**, currently pursuing my degree in **Computer Engineering (AI major)** at **Alamein International University**.
 
-💡 I'm deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** , fields that allow me to blend analytical thinking with real-world impact. Whether it's building smart applications or analyzing data for meaningful insights, I’m always eager to push the boundaries of what's possible with intelligent systems.
+💡 I'm deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**, fields that allow me to blend analytical thinking with real-world impact. Whether it's building smart applications or analyzing data for meaningful insights, I’m always eager to push the boundaries of what's possible with intelligent systems.
 
 ---
 
@@ -30,14 +30,15 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 ## 🚀 Projects I Have Done
 
 | Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master/blob/main/AI%20Dungeon%20Master.py) | Python, Pygame | Pathfinding enemy using A* Algorithm |
-| [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing, OOP | Full-featured desktop GUI app |
-| [🏥 Hospital Management System](https://github.com/Rodyyyyy/Hospital-Management-System) | Java, Swing | Designed a hospital management system with patient, doctor, and appointment handling features |
-| [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX, CSS | GUI calculator for solving numerical methods problems |
-| [👻 Pac-Man Game](https://github.com/Rodyyyyy/PacMan) | Python, Pygame | Classic AI-controlled ghost game |
-| [📊 Students Grades Analyzer](https://github.com/Rodyyyyy/Students-Grades-Analyzer) | Java, Swing | Visual analyzer for academic performance |
-| [🏨 Hotel Reservation System](https://github.com/Rodyyyyy/Hotel-Reservation-System) | Java, OOP | User-driven hotel booking platform |
+|---------|------------|------------|
+| [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
+| [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
+| [🏥 Hospital Management System](https://github.com/Rodyyyyy/Hospital-Management-System) | Java, Swing | Patient/doctor/appointment handling. |
+| [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX | GUI for numerical methods. |
+| [👻 Pac-Man Game](https://github.com/Rodyyyyy/PacMan) | Python, Pygame | Classic AI-controlled ghost game. |
+| [☕ BREW-HAUS](https://github.com/Rodyyyyy/BREW-HAUS) |HTML, CSS, BootStrap 5, JS | A fully responsive and interactive café website  |
+| [📊 Students Grades Analyzer](https://github.com/Rodyyyyy/Students-Grades-Analyzer) | Java, Swing | Academic performance visualizer. |
+| [🏨 Hotel Reservation System](https://github.com/Rodyyyyy/Hotel-Reservation-System) | Java, OOP | User-driven booking platform. |
 
 ---
 
@@ -48,12 +49,10 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures, Structured Programming  
+**Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures  
 **Languages:** Arabic (Native), English (B2-C1), German (A2-B1)  
 **Competitive Programming:** Solved 160+ problems on LeetCode
 
@@ -61,21 +60,16 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 
 ## 🏆 Certifications
 
-- Coursera: *Machine Learning for All*, *Inferential Statistics*, *Introduction to OOP*, *Digital Systems*, and more  
-- Mahara-Tech: *Mastering OOP with C++*, *Java Core*, *Network Fundamentals*
+- Coursera: *Machine Learning for All*, *Inferential Statistics*, *Introduction to OOP*  
+- Mahara-Tech: *Mastering OOP with C++*, *Java Core*
 
 ---
 
 ## 🌍 Activities & Leadership
 
 - 💡 **Head of Media** – QAIU (Quantum Computing)  
-  Created high-impact media to promote quantum literacy.
-
 - 🎯 **Vice Head of Marketing & Media** – ICPC  
-  Led successful campaigns and managed content for national competitions.
-
 - 🧩 **KENKEN Champion** – 5th place in UCMAC 2017  
-  Proving my love for puzzles and complex logic.
 
 ---
 
@@ -93,7 +87,3 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
   <img src="https://github-readme-stats.vercel.app/api?username=Rodyyyyy&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodyyyyy&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
----
-
-Thanks for visiting! ⭐ If you like what you see, don’t forget to **star** one of my projects!
