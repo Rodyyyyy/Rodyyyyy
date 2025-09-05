@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 
 **Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures  
 **Languages:** Arabic (Native), English (B2-C1), German (A2-B1)  
-**Competitive Programming:** Solved 160+ problems on LeetCode
+**Competitive Programming:** Solved 250+ problems on LeetCode
 
 ---
 
