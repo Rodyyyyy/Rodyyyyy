@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
 | [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
+| [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
 | [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
 | [🏥 Hospital Management System](https://github.com/Rodyyyyy/Hospital-Management-System) | Java, Swing | Patient/doctor/appointment handling. |
 | [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX | GUI for numerical methods. |
