@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
 | [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
-| [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-) |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
+| [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-)| Machine Learning, Computer Vision |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
 | [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
 | [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
 | [🏥 Hospital Management System](https://github.com/Rodyyyyy/Hospital-Management-System) | Java, Swing | Patient/doctor/appointment handling. |
