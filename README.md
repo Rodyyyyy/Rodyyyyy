@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 
 ---
 
-## 🔍 What I Do
+## 🔍 Experience
 
 - 👩‍💻 **Java DevBelts Program Trainee at ITI**  
   Developing Java-based applications using servlets and Swing.
@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
 | [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
+| [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-) |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
 | [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
 | [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
 | [🏥 Hospital Management System](https://github.com/Rodyyyyy/Hospital-Management-System) | Java, Swing | Patient/doctor/appointment handling. |
@@ -61,15 +62,15 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 
 ## 🏆 Certifications
 
-- Coursera: *Machine Learning for All*, *Inferential Statistics*, *Introduction to OOP*  
+- Coursera: *Machine Learning for All*, *Inferential Statistics*, *Introduction to object oriented programming*  
 - Mahara-Tech: *Mastering OOP with C++*, *Java Core*
 
 ---
 
 ## 🌍 Activities & Leadership
 
-- 💡 **Head of Media** – QAIU (Quantum Computing)  
-- 🎯 **Vice Head of Marketing & Media** – ICPC  
+- 💡 **Head of HR Committee 2026 ** – QAIU (Quantum Computing)  
+- 🎯 **Vice Head of Marketing & Media 2025** – ICPC  
 - 🧩 **KENKEN Champion** – 5th place in UCMAC 2017  
 
 ---
