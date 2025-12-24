@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-)| Machine Learning, Computer Vision |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
 | [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
 | [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
-| [🏥 Diabetes Health Indicator](https://github.com/Rodyyyyy/Diabetes-Health-Indicator-) | Machine Learning | Used 5 different models to compare accuarcy(Logistic Regression, KNN, Random Forest, Bossting, and Decision tree). |
+| [🏥 Diabetes Health Indicator](https://github.com/Rodyyyyy/Diabetes-Health-Indicator-) | Machine Learning | Used 5 different models to compare accuarcy(Logistic Regression, KNN, Random Forest, Boosting, and Decision tree). |
 | [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX | GUI for numerical methods. |
 | [👻 Pac-Man Game](https://github.com/Rodyyyyy/PacMan) | Python, Pygame | Classic AI-controlled ghost game. |
 | [☕ BREW-HAUS](https://github.com/Rodyyyyy/BREW-HAUS) |HTML, CSS, BootStrap 5, JS | A fully responsive and interactive café website  |
