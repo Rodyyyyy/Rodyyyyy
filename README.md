@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [📊 FlowTrace - From Block diagram to signal flow](https://github.com/Rodyyyyy/FlowTrace) |Python, HTML/CSS/JS , Flask, NetworkX | |Editorial engineering workbench that automates Mason's Gain Formula to derive transfer functions from block diagrams and signal flow graphs.|
+| [📊 FlowTrace - From Block diagram to signal flow](https://github.com/Rodyyyyy/FlowTrace) |Python, HTML/CSS/JS , Flask, NetworkX | | Editorial engineering workbench that automates Mason's Gain Formula to derive transfer functions from block diagrams and signal flow graphs. |
 | [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
 | [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-)| Machine Learning, Computer Vision |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
 | [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
