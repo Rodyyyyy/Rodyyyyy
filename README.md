@@ -38,10 +38,8 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | [📚 Library Management System](https://github.com/Rodyyyyy/Library-Management-System) | Java, Swing | Full-featured desktop GUI app. |
 | [🏥 Diabetes Health Indicator](https://github.com/Rodyyyyy/Diabetes-Health-Indicator-) | Machine Learning | Used 5 different models to compare accuarcy(Logistic Regression, KNN, Random Forest, Boosting, and Decision tree). |
 | [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX | GUI for numerical methods. |
-| [👻 Pac-Man Game](https://github.com/Rodyyyyy/PacMan) | Python, Pygame | Classic AI-controlled ghost game. |
 | [☕ BREW-HAUS](https://github.com/Rodyyyyy/BREW-HAUS) |HTML, CSS, BootStrap 5, JS | A fully responsive and interactive café website  |
-| [📊 Students Grades Analyzer](https://github.com/Rodyyyyy/Students-Grades-Analyzer) | Java, Swing | Academic performance visualizer. |
-| [🏨 Hotel Reservation System](https://github.com/Rodyyyyy/Hotel-Reservation-System) | Java, OOP | User-driven booking platform. |
+| [🤖CipherMatrix - Image-Encryption-Security-Analysis-Platform](https://github.com/Rodyyyyy/CipherMatrix-Image-Encryption-Security-Analysis-Platform) |Python 3, Flask, OpenCV, RESTful API, Chart.js, Three.js | CipherMatrix is a full-stack image encryption platform that secures images and analyzes encryption strength using advanced cryptographic techniques. 
 
 ---
 
