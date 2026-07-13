@@ -53,9 +53,9 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures  
+**Concepts:** Artificial Intelligence, Machine Learning, OOP, Data Structures, algorithms, OS, Neural Network, Deep learning, Computer Vision
 **Languages:** Arabic (Native), English (B2-C1), German (A2-B1)  
-**Competitive Programming:** Solved 250+ problems on LeetCode
+**Competitive Programming:** Solved 300+ problems on LeetCode
 
 ---
 
