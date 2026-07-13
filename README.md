@@ -32,6 +32,8 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
 | [📊 FlowTrace - From Block diagram to signal flow](https://github.com/Rodyyyyy/FlowTrace) |Python, HTML/CSS/JS , Flask, NetworkX | Editorial engineering workbench that automates Mason's Gain Formula to derive transfer functions from block diagrams and signal flow graphs. |
+| [🤖CipherMatrix - Image-Encryption-Security-Analysis-Platform](https://github.com/Rodyyyyy/CipherMatrix-Image-Encryption-Security-Analysis-Platform) |Python 3, Flask, OpenCV, RESTful API, Chart.js, Three.js | CipherMatrix is a full-stack image encryption platform that secures images and analyzes encryption strength using advanced cryptographic techniques. |
+| [🌍ATLASX - Smart Travel Discovery Platform](https://github.com/Rodyyyyy/ATLASX-website) |Python 3, Node.js, RESTful APIs, JWT Authentication|  ATLASX is a full-stack travel discovery platform for exploring cities, landmarks, and personalized travel recommendations in one place. |
 | [🧙‍♀️ AI Dungeon Master](https://github.com/Rodyyyyy/AI-Dungeon-Master) | Python, Pygame | Pathfinding enemy using A* Algorithm. |
 | [🤚 Sign Language Recognition System](https://github.com/Rodyyyyy/Sign-Language-Recognition-)| Machine Learning, Computer Vision |Developed using Machine Learning and Computer Vision techniques to accurately recognize and predict letters, words, and numbers.|
 | [🥞 AIU Cafeteria System](https://github.com/Rodyyyyy/AIU-Cafeteria-) | Java, OOP, JavaFX | Full cafeteria System Ordering, Editing menu, Notifications and Loyalty points Program  |
@@ -39,7 +41,7 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 | [🏥 Diabetes Health Indicator](https://github.com/Rodyyyyy/Diabetes-Health-Indicator-) | Machine Learning | Used 5 different models to compare accuarcy(Logistic Regression, KNN, Random Forest, Boosting, and Decision tree). |
 | [📐 Numerical Analysis Calculator](https://github.com/Rodyyyyy/Numerical-Analysis-Calculator-) | Java, JavaFX | GUI for numerical methods. |
 | [☕ BREW-HAUS](https://github.com/Rodyyyyy/BREW-HAUS) |HTML, CSS, BootStrap 5, JS | A fully responsive and interactive café website  |
-| [🤖CipherMatrix - Image-Encryption-Security-Analysis-Platform](https://github.com/Rodyyyyy/CipherMatrix-Image-Encryption-Security-Analysis-Platform) |Python 3, Flask, OpenCV, RESTful API, Chart.js, Three.js | CipherMatrix is a full-stack image encryption platform that secures images and analyzes encryption strength using advanced cryptographic techniques. 
+
 
 ---
 
@@ -81,10 +83,4 @@ Welcome to my GitHub! I'm an aspiring **Artificial Intelligence Engineer** and a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodainamohamed2005@gmail.com)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodyyyyy&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodyyyyy&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
